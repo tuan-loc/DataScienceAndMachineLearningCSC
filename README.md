@@ -1,1 +1,1 @@
-DataScienceAndMachineLearningCSC
+Data Science And Machine Learning CSC
